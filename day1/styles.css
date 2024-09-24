@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif; /* Default font */
+  line-height: 1.6; /* Improved readability */
+  background-color: #f4f4f4; /* Light gray background */
+  color: #333; /* Dark text color */
+}
+
+/* Header styles */
+header {
+  background: #007BFF; /* Bootstrap primary color */
+  color: #fff; /* White text */
+  padding: 10px 20px; /* Padding around header */
+  text-align: center; /* Centered text */
+}
+
+/* Navigation styles */
+nav ul {
+  list-style-type: none; /* Remove bullet points */
+}
+
+nav ul li {
+  display: inline; /* Horizontal list items */
+  margin-right: 15px; /* Space between items */
+}
+
+nav a {
+  color: white; /* White links */
+  text-decoration: none; /* Remove underline */
+}
+
+/* Main section styles */
+main {
+  padding: 20px; /* Padding around main content */
+}
+
+/* Footer styles */
+footer {
+  text-align: center; /* Centered text in footer */
+  padding: 10px 0; /* Padding around footer */
+  background-color: #333; /* Dark background for footer */
+  color: white; /* White text in footer */
+}
